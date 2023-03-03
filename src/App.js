@@ -8,8 +8,6 @@ import Header from './components/Header';
 import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 
-import { RiAddCircleLine } from 'react-icons/ri';
-
 function App() {
 
   const [todos, setTodos] = useState ([])
